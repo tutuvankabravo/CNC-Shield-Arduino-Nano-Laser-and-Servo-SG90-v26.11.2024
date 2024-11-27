@@ -1,5 +1,5 @@
 # CNC-Shield-Arduino-Nano-Laser-and-Servo-SG90-v27.11.2024 06-00 - актуальная
-# CNC-Shield-Arduino-Nano-Laser-and-Servo-SG90-v26.11.2024 не использовать
+CNC-Shield-Arduino-Nano-Laser-and-Servo-SG90-v26.11.2024 не использовать
 
 Версия прошивки v27.11.2024 06-00 (LASER and SERVO SG90)
 
