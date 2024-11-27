@@ -69,11 +69,3 @@ CNC-Shield-Arduino-Nano-Laser-and-Servo-SG90-v26.11.2024 - не использо
 21) Кнопка UP (вверх) (с XP2 на U9) A1
 22) Кнопка DOWN (вниз) (с XP2 на U9) A0
 23) Подключение LCD1602 по шине I2C:
-
-
-
-
-
-
-
-
